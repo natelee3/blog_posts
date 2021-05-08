@@ -8,7 +8,7 @@ I think we have a good mix of people in our cohort, and I believe that peoples' 
 
 weeks_left = 15
 
-while weeks_left > 0:
-    print("Only " + str(weeks_left) + "weeks left!")
-    weeks_left -= 1
+while weeks_left > 0:<br>
+    print("Only " + str(weeks_left) + "weeks left!") <br>
+    weeks_left -= 1 <br>
 print("You made it!")
