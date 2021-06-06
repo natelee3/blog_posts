@@ -1,4 +1,4 @@
-#Week Three
+# Week Three
 
 We began the week by presenting our python projects. I was very happy with how much functionality we were able to develop in just a few days, and I think our oregon-trail based game was a big hit. My team worked well together, and the whole process was very enjoyable. 
 
