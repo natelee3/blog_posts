@@ -1,4 +1,4 @@
-#Week Two
+# Week Two
 
 Week two is in the books, and things are going great. As we finish up our first python group project, I wanted to take a minute to reflect on why I decided to enroll with DigitalCrafts. 
 
