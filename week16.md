@@ -1,0 +1,11 @@
+# Week Sixteen 
+
+Demo Day was two days ago, and as of now I am officially a graduate of the DigitalCrafts bootcamp! So much has happened in the last few weeks, so let's catch you up. 
+
+Since I last checked in, I learned a lot more about the React ecosystem. I've transitioning to 100% functional components and hooks-- they just make everything simpler and more straightforward. We studied a few different ways to store data, including prop drilling, Redux, Context, and localStorage. My most recent project (interiorize.design) uses a mixture of localStorage and Context, but I hope I'll have some time to refactor it to be more consistent. While localStorage is undoubtedly easiest and most convenient method, it can't automatically notify components of updates like other methods can. 
+
+My individual React project went very well. Grep Jobs uses the FindWork API to support a searchable interface for finding developer jobs by location and keyword. Users can login to save jobs and view them in their dashboard. I'm really proud of what I was able to accomplish in just one week working by myself. 
+
+The capstone project went even better. My teammates and I executed brilliantly on Sarah's idea of "StichFix for interior design." I was primarily responsible for creating, securing, and documenting our Interiorize API although I was happy to get to work on some frontend components as well. You can check out the project [here](https://github.com/natelee3/interiorize) or see the deployed finished product [here](https://interiorize.design). 
+
+Now my focus turns to applying for jobs. So far I've applied to 12 or so and had one interview, but I feel confident that a company will recognize my ability to add value very soon. Until then, I'm going to continue working on projects (maybe some open source contributions??), practicing my data structures and algorithms,  and doing mock interviews. The DigitalCrafts Career Fair is coming up soon, and maybe I'll make some new connections there. Stay tuned!
